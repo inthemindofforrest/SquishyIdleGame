@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 941f5d528c93d4e6380406e8316c86eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4565408487951331344
+    second: Mr-Beast-Logo_0
+  - first:
+      213: 8569118455054625778
+    second: Mr-Beast-Logo_1
+  - first:
+      213: 4500743818822963107
+    second: Mr-Beast-Logo_2
+  - first:
+      213: 6908444926095068384
+    second: Mr-Beast-Logo_3
+  - first:
+      213: 1638842612673830899
+    second: Mr-Beast-Logo_4
+  - first:
+      213: 5620757713020541615
+    second: Mr-Beast-Logo_5
+  - first:
+      213: -2092607240958224802
+    second: Mr-Beast-Logo_6
+  - first:
+      213: -8437854271672789583
+    second: Mr-Beast-Logo_7
+  - first:
+      213: -8548278734898310053
+    second: Mr-Beast-Logo_8
+  - first:
+      213: -523970658141247567
+    second: Mr-Beast-Logo_9
+  - first:
+      213: 5119993713979205332
+    second: Mr-Beast-Logo_10
+  - first:
+      213: -1545321546578534666
+    second: Mr-Beast-Logo_11
+  - first:
+      213: 6873524052503997275
+    second: Mr-Beast-Logo_12
+  - first:
+      213: 8079018462048165810
+    second: Mr-Beast-Logo_13
+  - first:
+      213: -5042028700067915421
+    second: Mr-Beast-Logo_14
+  - first:
+      213: 2332560602663298219
+    second: Mr-Beast-Logo_15
+  - first:
+      213: 1496812951445679141
+    second: Mr-Beast-Logo_16
+  - first:
+      213: -3490625914773737273
+    second: Mr-Beast-Logo_17
+  - first:
+      213: 5912281147121368848
+    second: Mr-Beast-Logo_18
+  - first:
+      213: -2698820781457342185
+    second: Mr-Beast-Logo_19
+  - first:
+      213: -8765591330324524062
+    second: Mr-Beast-Logo_20
+  - first:
+      213: 3485768503803646108
+    second: Mr-Beast-Logo_21
+  - first:
+      213: 6217203658387335916
+    second: Mr-Beast-Logo_22
+  - first:
+      213: 1685361282480740861
+    second: Mr-Beast-Logo_23
+  - first:
+      213: -6175293428583947926
+    second: Mr-Beast-Logo_24
+  - first:
+      213: 3955643478849815982
+    second: Mr-Beast-Logo_25
+  - first:
+      213: 2387546057146388804
+    second: Mr-Beast-Logo_26
+  - first:
+      213: -1891361555427556594
+    second: Mr-Beast-Logo_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 493, y: 228, z: 1004, w: 223}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_0
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 2122
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff8b153b2964a0c0800000000000000
+      internalID: -4565408487951331344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_1
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 2122
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb66cf65df9be670800000000000000
+      internalID: 8569118455054625778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_2
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2122
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af4af148aad57e30800000000000000
+      internalID: 4500743818822963107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_3
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2122
+        width: 41
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec0f3ace0abfdf50800000000000000
+      internalID: 6908444926095068384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 239
+        width: 2304
+        height: 1686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff523b5ca65eb610800000000000000
+      internalID: 1638842612673830899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_5
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 689
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa50252c51f00e40800000000000000
+      internalID: 5620757713020541615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_6
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 698
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56564c2dc095f2e0800000000000000
+      internalID: -2092607240958224802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_7
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 269
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b55e6ede38b6ea80800000000000000
+      internalID: -8437854271672789583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_8
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 239
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b545c5508c96e5980800000000000000
+      internalID: -8548278734898310053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_9
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 218
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b763c8667b7ab8f0800000000000000
+      internalID: -523970658141247567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_10
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 230
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6a6fde72fdd0740800000000000000
+      internalID: 5119993713979205332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_11
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 224
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fedd68ad3aed8ae0800000000000000
+      internalID: -1545321546578534666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_12
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 196
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5baa9055b9a36f50800000000000000
+      internalID: 6873524052503997275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_13
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 200
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf143c9c707e1070800000000000000
+      internalID: 8079018462048165810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_14
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 188
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36990217c9d170ab0800000000000000
+      internalID: -5042028700067915421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_15
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba421da728bee5020800000000000000
+      internalID: 2332560602663298219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_16
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 149
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52caf1ae27fb5c410800000000000000
+      internalID: 1496812951445679141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_17
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 127
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c07322893ece8fc0800000000000000
+      internalID: -3490625914773737273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_18
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 140
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f7862f064ac0250800000000000000
+      internalID: 5912281147121368848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_19
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 123
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7110bc85cccdb8ad0800000000000000
+      internalID: -2698820781457342185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_20
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 93
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e353cd802d5a5680800000000000000
+      internalID: -8765591330324524062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_21
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90167e5cffef5030800000000000000
+      internalID: 3485768503803646108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_22
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 53
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaaf6289c1f74650800000000000000
+      internalID: 6217203658387335916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_23
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df91670382b936710800000000000000
+      internalID: 1685361282480740861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_24
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6123754853fc4aa0800000000000000
+      internalID: -6175293428583947926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_25
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea50fee39c445e630800000000000000
+      internalID: 3955643478849815982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_26
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 33
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441581d3d74422120800000000000000
+      internalID: 2387546057146388804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr-Beast-Logo_27
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0309eaafa880c5e0800000000000000
+      internalID: -1891361555427556594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

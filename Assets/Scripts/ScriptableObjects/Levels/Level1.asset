@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17ea5d509fc4a453eb52b7664e94469c, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  LevelNumber: 1
+  Generators: []
+  LeftQuests:
+  - {fileID: 11400000, guid: ed41c22a2ac0847d5b0da69972ecb17a, type: 2}
+  - {fileID: 11400000, guid: d226cd265c7fb498d9bd38fd24fc227f, type: 2}
+  CenterQuests:
+  - {fileID: 11400000, guid: 317d34ca4f78646d399d42734081856b, type: 2}
+  - {fileID: 11400000, guid: e47b1311d9ee34ddfb98594c52c0c4b0, type: 2}
+  RightQuests:
+  - {fileID: 11400000, guid: c9d52390ecbb4459bbd7bac5acbf18b6, type: 2}
+  - {fileID: 11400000, guid: b2811e809c4ca4c90b6d5112b93c92ac, type: 2}
